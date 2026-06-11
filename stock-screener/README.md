@@ -104,7 +104,7 @@ stock-screener/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aryan-kuma-wat/zetheta123.git
    cd stock-screener
    ```
 
@@ -160,4 +160,5 @@ stock-screener/
 
 This application is ready for deployment on **Vercel** with custom edge caching headers configured in `vercel.json` for high availability.
 
-**Live Deployment URL**: `[TODO: Deployment URL placeholder]`
+- **GitHub Repository**: [Aryan-kuma-wat/zetheta123](https://github.com/Aryan-kuma-wat/zetheta123)
+- **Live Deployment URL**: [zetheta123.vercel.app](https://project1-dgm9dvde8-aryank-175002.vercel.app/)
